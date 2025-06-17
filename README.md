@@ -1,1 +1,0 @@
-# -educalling-ios-privacy-policy
