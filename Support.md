@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective Date:** 17th Jun, 2025  
-**App Name:** EduCalling  
+**App Name:** Educalling  
 **Developer:** Project 2morrow Software Limited  
 **Contact:** [info@p2msoft.com](mailto:info@p2msoft.com)
 
